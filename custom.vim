@@ -1,5 +1,13 @@
 colorscheme molokai
 
+
+" Map jj and jk to change to Normal mode
+inoremap jj <esc>
+inoremap jk <esc>
+
+" Use Space to expand in Nerdtree instead of Enter
+let NERDTreeMapActivateNode='<space>'
+
 "Custome Settings
 set nu
 "tab key is 4 spaces

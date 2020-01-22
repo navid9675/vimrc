@@ -32,6 +32,7 @@ Plugin 'rbgrouleff/bclose.vim'
 Plugin 'gregsexton/gitv'
 Plugin 'mhinz/vim-signify'
 Plugin 'vim-auto-save'
+Plugin 'mattn/vim-terminal'
 
 
 " All of your Plugins must be added before the following line

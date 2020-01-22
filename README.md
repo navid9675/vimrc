@@ -3,8 +3,8 @@ vimrc repo
 ## Install
 
 ```
-git clone https://github.com/LovingYoung/vimrc.git ~/.vim_jace
-bash ~/.vim_jace/install.sh
+git clone https://github.com/navid9675/vimrc.git ~/.vim_navid
+bash ~/.vim_navid/install.sh
 ```
 
 `:BundleInstall` after opening vim (Tips: There is one error at first open, don't worry)
@@ -16,5 +16,5 @@ bash ~/.vim_jace/install.sh
 ## Uninstall
 
 ```
-bash ~/.vim_jace/uninstall.sh
+bash ~/.vim_navid/uninstall.sh
 ```

@@ -11,8 +11,8 @@ echo "source ~/.vim/vundle.vim
 source ~/.vim/custom.vim" > ~/.vimrc
 
 # link
-ln -s ~/.vim_jace ~/.vim
+ln -s ~/.vim_navid  ~/.vim
 
 # Install vumdle
 echo "Installing Vundle"
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim_jace/bundle/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim_navid/bundle/Vundle.vim
